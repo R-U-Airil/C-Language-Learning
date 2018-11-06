@@ -1,2 +1,2 @@
 # C-Language-Learning
-C Language Learning
+Noob in C language.
